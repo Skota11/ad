@@ -1,0 +1,6 @@
+[@skota11 YoutubeShortsFilter]
+
+m.youtube.com##ytd-grid-video-renderer:has(#thumbnail[href*=shorts])
+m.youtube.com##+js(json-prune, items.0.guideSectionRenderer.items.2.guideEntryRenderer)
+m.youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(/#shorts/i))
+m.youtube.com##+js(json-prune, contents.twoColumnBrowseResultsRenderer.tabs.0.tabRenderer.content.sectionListRenderer.contents.*.itemSectionRenderer.contents.0.reelShelfRenderer)
