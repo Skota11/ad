@@ -1,3 +1,8 @@
-[@skota11 YoutubeShortsFilter]
+[Adblock Plus 3.15.2]
+
+! Title: YoutubeShortsFIlter
+! Homepage:https://skota11.com
+! 作成者：skota11
+! 最終更新 2026/2/11 02:53
 
 *.youtube.com##.pivot-shorts
