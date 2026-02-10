@@ -5,4 +5,8 @@
 ! 作成者：skota11
 ! 最終更新 2026/2/11 02:53
 
+m.youtube.com##.statement-banner-content-wrapper
 m.youtube.com##.pivot-shorts
+m.youtube.com##.ytGridShelfViewModelHost
+m.youtube.com##.ytmBackstagePostRendererHost
+m.youtube.com##.ytSearchboxComponentVoiceSearchWrapper
