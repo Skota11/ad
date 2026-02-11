@@ -1,0 +1,18 @@
+[Adblock Plus 3.15.2]
+
+! Title: Stress-free YouTube for Japanase
+! Homepage:https://skota11.com
+! 作成者：skota11
+! 最終更新 2026/2/11 11:55
+
+!Shortsやコミュニティー投稿のブロックはBrave作のフィルター
+! (GitHub) https://github.com/brave/adblock-lists/blob/master/brave-lists/yt-shorts.txt
+! (Filter Link) https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/yt-shorts.txt
+
+!Top画面のYouTubeからのお知らせ
+m.youtube.com##.statement-banner-content-wrapper
+!音声入力ボタン
+m.youtube.com##.ytSearchboxComponentVoiceSearchWrapper
+m.youtube.com##.mobile-topbar-header-voice-search-button
+!報告ボタン
+m.youtube.com##button-view-model:has(button[aria-label="報告"])
