@@ -5,7 +5,7 @@
 ! 作成者：skota11
 ! 最終更新 2026/2/11 11:55
 
-!Shortsやコミュニティー投稿のブロックはBrave作のフィルター
+! Shortsやコミュニティー投稿のブロックはBrave作のフィルター
 ! (GitHub) https://github.com/brave/adblock-lists/blob/master/brave-lists/yt-shorts.txt
 ! (Filter Link) https://raw.githubusercontent.com/brave/adblock-lists/refs/heads/master/brave-lists/yt-shorts.txt
 
